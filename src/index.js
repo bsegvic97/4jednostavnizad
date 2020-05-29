@@ -18,3 +18,4 @@ for (var i = 0; i < e.length; i++) {
   }
 }
 console.log(br);
+//Opet koristim imperativnu jer mi je tako najlakse pisat (dosad u zivotu vise manje uvijek imperativna, iako to tada nisam znao), a smatram da si od ova 4 "zadacica" mogu priustit da 2 budu u imperativnoj, iako smatram da su rjesenja imperativnom "bezvezna" i "vec videna"
